@@ -1,0 +1,15 @@
+[
+    {
+        "name": "SeaFood Special",
+        "image": "seafoods.jpg",
+        "description": "<p><span>Fried Salmon Special</span> Fried salmon is delicious.</p>"
+    }, {
+        "name": "Sumptuous Desserts",
+        "image": "desserts.jpg",
+        "description": "<p><span>Choco Ice Cream Sandwich</span> Yum Yum Ice Cream</p>"
+    }, {
+        "name": "Buffet",
+        "image": "buffet.jpg",
+        "description": "<p><span>Mixed Buffet</span> It's a buffet, eat whatever you want.</p>"
+    }
+]
